@@ -1,0 +1,13 @@
+D:\dio-repositorio\TDD\projeto\bin\Debug\netcoreapp3.1\projeto.exe
+D:\dio-repositorio\TDD\projeto\bin\Debug\netcoreapp3.1\projeto.deps.json
+D:\dio-repositorio\TDD\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.json
+D:\dio-repositorio\TDD\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.dev.json
+D:\dio-repositorio\TDD\projeto\bin\Debug\netcoreapp3.1\projeto.dll
+D:\dio-repositorio\TDD\projeto\bin\Debug\netcoreapp3.1\projeto.pdb
+D:\dio-repositorio\TDD\projeto\obj\Debug\netcoreapp3.1\projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\dio-repositorio\TDD\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfoInputs.cache
+D:\dio-repositorio\TDD\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfo.cs
+D:\dio-repositorio\TDD\projeto\obj\Debug\netcoreapp3.1\projeto.csproj.CoreCompileInputs.cache
+D:\dio-repositorio\TDD\projeto\obj\Debug\netcoreapp3.1\projeto.dll
+D:\dio-repositorio\TDD\projeto\obj\Debug\netcoreapp3.1\projeto.pdb
+D:\dio-repositorio\TDD\projeto\obj\Debug\netcoreapp3.1\projeto.genruntimeconfig.cache
